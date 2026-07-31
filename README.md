@@ -1,0 +1,1 @@
+# Explainable-Supervised-Anomaly-Classification-on-4-Industrial-Datasets-with-DINOv2
